@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/_next/static/:path*",
+      "destination": "https://maboong-soorokim.vercel.app/_next/static/:path*"
+    }
+  ]
+}
