@@ -18,7 +18,7 @@ const nextConfig: NextConfig = {
       destination: `${TEST}`,
     },
     {
-      source: "/_next/static/:path+",
+      source: "/maboong/_next/static/:path+",
       destination: `${TEST}/_next/static/:path+`,
     },
   ],
